@@ -1,4 +1,5 @@
 # Hi!
+# Hi!
 
 Hi there! I'm Johannes, and I like code!
 
@@ -14,8 +15,13 @@ In short:
 
 If you would prefer to se a more detailed description of my career, feel free to checkout out my [CV](https://jite.eu/CV) on my personal [blog](https://jite.eu)!
 
-Most repositories I work with are under my organization scope: https://github.com/jitesoft, while you are totally welcome to check out all my... older... repositories 
+Most repositories I work with are under my organization scope: https://github.com/jitesoft, while you are totally welcome to check out all my... older... repositories
 and any fork I have under this account!
+
+---
+
+Post an issue in my [readme repository](https://github.com/johannestegner/johannestegner) for questions or if you crave pictures of my husky.
+
 
 <!--
 **Johannestegner/Johannestegner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
