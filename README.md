@@ -1,5 +1,4 @@
-# Hi!
-# Hi!
+## Hi!
 
 Hi there! I'm Johannes, and I like code!
 
